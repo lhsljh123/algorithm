@@ -5,7 +5,7 @@
 
 ## Commit rule
 ### [Type]: [ProblemType]-[ProblemPath]-[LanguageType]
-#### Type: Solve / Review /
+#### Type: [Solved / Review / Temp]
 #### ProblemType: [BFS / DFS / Greedy / ...]
 #### ProblemPath: [BOJ / Programmers / HakcerRank / LeetCode]
 #### LaguageType: [JavaScript / C++ / Python / ...]
